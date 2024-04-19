@@ -1,1 +1,25 @@
+戏曲晚会,#genre#
+《2018春节戏曲晚会》 20180217（精编版）,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a17eeccb4075493990be4b8e70e5f3e6/1200.m3u8
+《2018元宵戏曲晚会》第一部分，https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2a31e886658b47bd96ae0b46cffae0a6/1200.m3u8
+《2018元宵戏曲晚会》第二部分，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0c3bfe42785c49589c78fbadeca8a5d6/1200.m3u8
+《2018中秋戏曲晚会》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2696d6ef22c0483b864254f5ebef39a3/1200.m3u8
+《2018国庆戏曲演唱会》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1bbe065ad04447a98b5340c129c2ce6f/1200.m3u8
+《2019新年戏曲晚会》，https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/d11f9df08fe1474486101430cd7ab9c7/1200.m3u8
+《2019年春节戏曲晚会》第一部，https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/919c262980044e81839e5f3a9896f74f/1200.m3u8
+《2019年春节戏曲晚会》第二部，https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/cba7a62923ca428882997ef61767d6a9/1200.m3u8
+《2019元宵戏曲晚会》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/96747b91fae94637b2530c4cc2edbc56/1200.m3u8
+《2020元宵戏曲晚会》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/43a498e7f1364972806b989788556685/1200.m3u8
+《2021年新年戏曲晚会》，https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4139013a14264042b39b1c4671f725c5/1200.m3u8
+《2021春节戏曲晚会》第一部，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca978623ae154520b16397789cda10d6/1200.m3u8
+《2021春节戏曲晚会》第二部，https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ede26130fd3e440ca805ef7d59ca95db/1200.m3u8
+《2021元宵戏曲晚会》，https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ce8ee1aa9e204e2a82f3fbd5145339c3/1200.m3u8
+《盛世共婵娟——2021中秋戏曲晚会》，https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cb26b01bd5eb4df9b6ee74a5b38a867b/1200.m3u8
+《2022年新年戏曲晚会》，https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fee96e76c78a478b8aef7312d556e2f5/1200.m3u8
+《2022春节戏曲晚会》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5971a4436d504884bf74e50ad3600b27/1200.m3u8
+《2022元宵戏曲晚会——那年元夕今宵情》，https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/1d3162eaf68a42788ad1f29acefde442/1200.m3u8
+《2023年新年戏曲晚会》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6d5d49ee8bfa4ea78b9f8cc5b71ae721/1200.m3u8
+《2023年春节戏曲晚会（完整版）》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9bb48d206971466a96f8226a737b2a9e/1200.m3u8
+《2024年新年戏曲晚会》，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fac0b7c6c8d543309328f9279591e010/1200.m3u8
+《2024年春节戏曲晚会（完整版）》 ，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8faadf907b2455db22c6df6906821e9/1200.m3u8
+
 京剧晚会,https://v3.toutiaovod.com/970e54d5869846354e72f306795ee6a8/66221653/video/tos/cn/tos-cn-ve-0026/oQAKWkIQh0Af3hVAPS0MK7tPbKzBAAVEHdxys6/?a=13&ch=0&cr=0&dr=0&net=5&cd=0%7C0%7C1%7C0&cv=1&br=799&bt=799&cs=0&ds=3&eid=24576&ft=tebEZ8hPooVD12NuwcKT-Ux3DnyGyF_O51Y&mime_type=video_mp4&qs=0&rc=OGg1NjczNWloNDVkZmY7aUBpamY7NmQ6ZmxkcTMzNGQzM0AyMF4vNjE1NjAxMGFgYF82YSNvYm1qcjRfXmFgLS1kLi9zcw%3D%3D&btag=e000b8030&dy_q=1713497623&feature_id=c971272fc3ffbf3302638b781fde9447&l=202404191133436EB20398B420B3746055
