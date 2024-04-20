@@ -21,6 +21,6 @@
 《2023年春节戏曲晚会（完整版）》,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9bb48d206971466a96f8226a737b2a9e/1200.m3u8
 《2024年新年戏曲晚会》,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fac0b7c6c8d543309328f9279591e010/1200.m3u8
 《2024年春节戏曲晚会（完整版）》 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8faadf907b2455db22c6df6906821e9/1200.m3u8
-挂帅,http://hk-03.starryfrp.com:55506/p/F:/%E4%BA%AC%E5%89%A7/%E3%80%8A%E4%BA%AC%E5%89%A7%E5%9B%9B%E5%A4%A7%E5%90%8D%E6%97%A6%E3%80%8B%E4%B8%BB%E9%A2%98%E6%99%9A%E4%BC%9A%20-%20%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91.mp4?sign=S12sX0xvNjvFoIz9gpM2Owyh7z8PYTzyEBIZlr_zbV4=:0
+挂帅,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/%E3%80%8A%E4%BA%AC%E5%89%A7%E5%9B%9B%E5%A4%A7%E5%90%8D%E6%97%A6%E3%80%8B%E4%B8%BB%E9%A2%98%E6%99%9A%E4%BC%9A%20-%20%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91.mp4
 
 京剧晚会,http://localhost:19798/static/http/localhost:19798/True/%2F115%2F%E6%AD%A3%E7%BB%8F%E5%BD%B1%E8%A7%86%2F%E5%88%BA%E5%AE%A2%E4%BC%8D%E5%85%AD%E4%B8%83%2F%E5%88%BA%E5%AE%A2%E4%BC%8D%E5%85%AD%E4%B8%83S03%2FScissor.Seven.S03E02.Dai.Bo.and.Seven.1080p.NF.AAC.H264.6-er.mp4
