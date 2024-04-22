@@ -21,6 +21,78 @@
 《2023年春节戏曲晚会（完整版）》,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9bb48d206971466a96f8226a737b2a9e/1200.m3u8
 《2024年新年戏曲晚会》,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fac0b7c6c8d543309328f9279591e010/1200.m3u8
 《2024年春节戏曲晚会（完整版）》 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8faadf907b2455db22c6df6906821e9/1200.m3u8
-挂帅,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/%E3%80%8A%E4%BA%AC%E5%89%A7%E5%9B%9B%E5%A4%A7%E5%90%8D%E6%97%A6%E3%80%8B%E4%B8%BB%E9%A2%98%E6%99%9A%E4%BC%9A%20-%20%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91.mp4
+《京剧四大名旦》主题晚会,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/%E3%80%8A%E4%BA%AC%E5%89%A7%E5%9B%9B%E5%A4%A7%E5%90%8D%E6%97%A6%E3%80%8B%E4%B8%BB%E9%A2%98%E6%99%9A%E4%BC%9A%20-%20%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91.mp4
 
-京剧晚会,http://localhost:19798/static/http/localhost:19798/True/%2F115%2F%E6%AD%A3%E7%BB%8F%E5%BD%B1%E8%A7%86%2F%E5%88%BA%E5%AE%A2%E4%BC%8D%E5%85%AD%E4%B8%83%2F%E5%88%BA%E5%AE%A2%E4%BC%8D%E5%85%AD%E4%B8%83S03%2FScissor.Seven.S03E02.Dai.Bo.and.Seven.1080p.NF.AAC.H264.6-er.mp4
+京剧选段,#genre#
+1.《同光十三绝》 国家京剧院一团,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/1.%E3%80%8A%E5%90%8C%E5%85%89%E5%8D%81%E4%B8%89%E7%BB%9D%E3%80%8B%20%E5%9B%BD%E5%AE%B6%E4%BA%AC%E5%89%A7%E9%99%A2%E4%B8%80%E5%9B%A2.mp4
+10.《斩黄袍》选段 倪茂才 张蕾蕾,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/10.%E3%80%8A%E6%96%A9%E9%BB%84%E8%A2%8D%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%80%AA%E8%8C%82%E6%89%8D%20%E5%BC%A0%E8%95%BE%E8%95%BE.mp4
+11.《沙家浜·智斗》于魁智 李胜素 杨赤,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/11.%E3%80%8A%E6%B2%99%E5%AE%B6%E6%B5%9C%C2%B7%E6%99%BA%E6%96%97%E3%80%8B%E4%BA%8E%E9%AD%81%E6%99%BA%20%E6%9D%8E%E8%83%9C%E7%B4%A0%20%E6%9D%A8%E8%B5%A4.mp4
+12.《白蛇传·游湖》宋小川 江其虎 ,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/12.%E3%80%8A%E7%99%BD%E8%9B%87%E4%BC%A0%C2%B7%E6%B8%B8%E6%B9%96%E3%80%8B%E5%AE%8B%E5%B0%8F%E5%B7%9D%20%E6%B1%9F%E5%85%B6%E8%99%8E%20%E7%AA%A6%E6%99%93%E7%92%87%20%E4%B8%81%E6%99%93%E5%90%9B.mp4
+13.《贵妃醉酒》选段 李胜素,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/13.%E3%80%8A%E8%B4%B5%E5%A6%83%E9%86%89%E9%85%92%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%8E%E8%83%9C%E7%B4%A0.mp4
+14.《游龙戏凤》选段 史依弘 范永亮,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/14.%E3%80%8A%E6%B8%B8%E9%BE%99%E6%88%8F%E5%87%A4%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%8F%B2%E4%BE%9D%E5%BC%98%20%E8%8C%83%E6%B0%B8%E4%BA%AE.mp4
+15.《凤还巢》选段 金喜全 董圆圆,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/15.%E3%80%8A%E5%87%A4%E8%BF%98%E5%B7%A2%E3%80%8B%E9%80%89%E6%AE%B5%20%E9%87%91%E5%96%9C%E5%85%A8%20%E8%91%A3%E5%9C%86%E5%9C%86.mp4
+16.《马前泼水》选段 朱强 李晓兰,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/16.%E3%80%8A%E9%A9%AC%E5%89%8D%E6%B3%BC%E6%B0%B4%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9C%B1%E5%BC%BA%20%E6%9D%8E%E6%99%93%E5%85%B0.mp4
+17.《卖水》选段 耿巧云,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/17.%E3%80%8A%E5%8D%96%E6%B0%B4%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%80%BF%E5%B7%A7%E4%BA%91.mp4
+18.《定军山》选段 卢松,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/18.%E3%80%8A%E5%AE%9A%E5%86%9B%E5%B1%B1%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%8D%A2%E6%9D%BE.mp4
+19.《壮别》叶少兰 尚长荣,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/19.%E3%80%8A%E5%A3%AE%E5%88%AB%E3%80%8B%E5%8F%B6%E5%B0%91%E5%85%B0%20%E5%B0%9A%E9%95%BF%E8%8D%A3.mp4
+2.《赤壁·舌战群儒》于魁智 朱强 ,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/2.%E3%80%8A%E8%B5%A4%E5%A3%81%C2%B7%E8%88%8C%E6%88%98%E7%BE%A4%E5%84%92%E3%80%8B%E4%BA%8E%E9%AD%81%E6%99%BA%20%E6%9C%B1%E5%BC%BA%20%E5%BC%A0%E5%87%AF%E7%AD%89.mp4
+20.《铡美案》选段 孟广禄,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/20.%E3%80%8A%E9%93%A1%E7%BE%8E%E6%A1%88%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%AD%9F%E5%B9%BF%E7%A6%84.mp4
+21.《锁五龙》选段 康万生,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/21.%E3%80%8A%E9%94%81%E4%BA%94%E9%BE%99%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%BA%B7%E4%B8%87%E7%94%9F.mp4
+22.《淮河营》选段 朱强,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/22.%E3%80%8A%E6%B7%AE%E6%B2%B3%E8%90%A5%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9C%B1%E5%BC%BA.mp4
+23.《朱仙镇》选段 李衍茂,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/23.%E3%80%8A%E6%9C%B1%E4%BB%99%E9%95%87%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%8E%E8%A1%8D%E8%8C%82.mp4
+24.《二进宫》选段 李博 查思娜 刘嘉欣,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/24.%E3%80%8A%E4%BA%8C%E8%BF%9B%E5%AE%AB%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%8E%E5%8D%9A%20%E6%9F%A5%E6%80%9D%E5%A8%9C%20%E5%88%98%E5%98%89%E6%AC%A3%EF%BC%88%E8%AF%8D%E5%84%BF%E8%B6%85%E5%85%A8%EF%BC%81%EF%BC%81%EF%BC%89.mp4
+25.《飞虎山》选段 包飞 刘嘉欣,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/25.%E3%80%8A%E9%A3%9E%E8%99%8E%E5%B1%B1%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%8C%85%E9%A3%9E%20%E5%88%98%E5%98%89%E6%AC%A3.mp4
+26.《战北原》选段 言兴朋,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/26.%E3%80%8A%E6%88%98%E5%8C%97%E5%8E%9F%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%A8%80%E5%85%B4%E6%9C%8B.mp4
+27.《将相和》选段 胡晓宇,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/27.%E3%80%8A%E5%B0%86%E7%9B%B8%E5%92%8C%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%83%A1%E6%99%93%E5%AE%87.mp4
+28.《白蛇传》选段 张火丁,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/28.%E3%80%8A%E7%99%BD%E8%9B%87%E4%BC%A0%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%BC%A0%E7%81%AB%E4%B8%81.mp4
+29.《秦琼卖马》店主东带过了黄骠马,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/29.%E3%80%8A%E7%A7%A6%E7%90%BC%E5%8D%96%E9%A9%AC%E3%80%8B%E5%BA%97%E4%B8%BB%E4%B8%9C%E5%B8%A6%E8%BF%87%E4%BA%86%E9%BB%84%E9%AA%A0%E9%A9%AC%20%E5%B4%94%E8%8B%B1.mp4
+3.《三家店》选段 于魁智,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/3.%E3%80%8A%E4%B8%89%E5%AE%B6%E5%BA%97%E3%80%8B%E9%80%89%E6%AE%B5%20%E4%BA%8E%E9%AD%81%E6%99%BA.mp4
+30.《斩马谡》选段 张克 王平 杨光,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/30.%E3%80%8A%E6%96%A9%E9%A9%AC%E8%B0%A1%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%BC%A0%E5%85%8B%20%E7%8E%8B%E5%B9%B3%20%E6%9D%A8%E5%85%89.mp4
+31.《文昭关》叹五更 杨少彭,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/31.%E3%80%8A%E6%96%87%E6%98%AD%E5%85%B3%E3%80%8B%E5%8F%B9%E4%BA%94%E6%9B%B4%20%E6%9D%A8%E5%B0%91%E5%BD%AD.mp4
+32.《白毛女》选段 张建国 张佳春,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/32.%E3%80%8A%E7%99%BD%E6%AF%9B%E5%A5%B3%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%BC%A0%E5%BB%BA%E5%9B%BD%20%E5%BC%A0%E4%BD%B3%E6%98%A5.mp4
+33.《梨花颂》梅葆玖 胡文阁 李胜素,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/33.%E3%80%8A%E6%A2%A8%E8%8A%B1%E9%A2%82%E3%80%8B%E6%A2%85%E8%91%86%E7%8E%96%20%E8%83%A1%E6%96%87%E9%98%81%20%E6%9D%8E%E8%83%9C%E7%B4%A0.mp4
+34.《空城计》我正在城楼观山景 王珮瑜,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/34.%E3%80%8A%E7%A9%BA%E5%9F%8E%E8%AE%A1%E3%80%8B%E6%88%91%E6%AD%A3%E5%9C%A8%E5%9F%8E%E6%A5%BC%E8%A7%82%E5%B1%B1%E6%99%AF%20%E7%8E%8B%E7%8F%AE%E7%91%9C.mp4
+35.《文昭关》二六 刘垒,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/35.%E3%80%8A%E6%96%87%E6%98%AD%E5%85%B3%E3%80%8B%E4%BA%8C%E5%85%AD%20%E5%88%98%E5%9E%92.mp4
+36.《珠帘寨·数太保》张建国,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/36.%E3%80%8A%E7%8F%A0%E5%B8%98%E5%AF%A8%C2%B7%E6%95%B0%E5%A4%AA%E4%BF%9D%E3%80%8B%E5%BC%A0%E5%BB%BA%E5%9B%BD.mp4
+37.《四郎探母》一见娇儿泪满腮 兰文云,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/37.%E3%80%8A%E5%9B%9B%E9%83%8E%E6%8E%A2%E6%AF%8D%E3%80%8B%E4%B8%80%E8%A7%81%E5%A8%87%E5%84%BF%E6%B3%AA%E6%BB%A1%E8%85%AE%20%E5%85%B0%E6%96%87%E4%BA%91.mp4
+38.《钓金龟》叫张义 赵葆秀,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/38.%E3%80%8A%E9%92%93%E9%87%91%E9%BE%9F%E3%80%8B%E5%8F%AB%E5%BC%A0%E4%B9%89%20%E8%B5%B5%E8%91%86%E7%A7%80.mp4
+39.《追韩信》选段 我主爷 陈少云,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/39.%E3%80%8A%E8%BF%BD%E9%9F%A9%E4%BF%A1%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%88%91%E4%B8%BB%E7%88%B7%20%E9%99%88%E5%B0%91%E4%BA%91.mp4
+4.《苏三起解》苏三离了洪洞县 李胜素,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/4.%E3%80%8A%E8%8B%8F%E4%B8%89%E8%B5%B7%E8%A7%A3%E3%80%8B%E8%8B%8F%E4%B8%89%E7%A6%BB%E4%BA%86%E6%B4%AA%E6%B4%9E%E5%8E%BF%20%E6%9D%8E%E8%83%9C%E7%B4%A0.mp4
+40.《珠帘寨》昔日有个三大贤 王珮瑜,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/40.%E3%80%8A%E7%8F%A0%E5%B8%98%E5%AF%A8%E3%80%8B%E6%98%94%E6%97%A5%E6%9C%89%E4%B8%AA%E4%B8%89%E5%A4%A7%E8%B4%A4%20%E7%8E%8B%E7%8F%AE%E7%91%9C.mp4
+41.《追韩信》 三生有幸 陶阳,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/41.%E3%80%8A%E8%BF%BD%E9%9F%A9%E4%BF%A1%E3%80%8B%20%E4%B8%89%E7%94%9F%E6%9C%89%E5%B9%B8%20%E9%99%B6%E9%98%B3.mp4
+42.《红灯记》选段 李胜素,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/42.%E3%80%8A%E7%BA%A2%E7%81%AF%E8%AE%B0%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%8E%E8%83%9C%E7%B4%A0.mp4
+43.《红灯记》选段 张浩洋,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/43.%E3%80%8A%E7%BA%A2%E7%81%AF%E8%AE%B0%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%BC%A0%E6%B5%A9%E6%B4%8B.mp4
+44.《珠帘寨》李克用跪席前脸带含羞,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/44.%E3%80%8A%E7%8F%A0%E5%B8%98%E5%AF%A8%E3%80%8B%E6%9D%8E%E5%85%8B%E7%94%A8%E8%B7%AA%E5%B8%AD%E5%89%8D%E8%84%B8%E5%B8%A6%E5%90%AB%E7%BE%9E%20%E5%BC%A0%E5%85%8B%20%E5%8D%A2%E6%9D%BE.mp4
+45.《珠帘寨》一见珠宝账中摆 张克 卢松,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/45.%E3%80%8A%E7%8F%A0%E5%B8%98%E5%AF%A8%E3%80%8B%E4%B8%80%E8%A7%81%E7%8F%A0%E5%AE%9D%E8%B4%A6%E4%B8%AD%E6%91%86%20%E5%BC%A0%E5%85%8B%20%E5%8D%A2%E6%9D%BE.mp4
+46.《范进中举》选段 张建国,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/46.%E3%80%8A%E8%8C%83%E8%BF%9B%E4%B8%AD%E4%B8%BE%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%BC%A0%E5%BB%BA%E5%9B%BD.mp4
+47.《对花枪》选段 袁慧琴,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/47.%E3%80%8A%E5%AF%B9%E8%8A%B1%E6%9E%AA%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%A2%81%E6%85%A7%E7%90%B4.mp4
+48.《野猪林》选段 杨赤,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/48.%E3%80%8A%E9%87%8E%E7%8C%AA%E6%9E%97%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%A8%E8%B5%A4.mp4
+49.《秦琼卖马》站立店中用目洒 傅希如,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/49.%E3%80%8A%E7%A7%A6%E7%90%BC%E5%8D%96%E9%A9%AC%E3%80%8B%E7%AB%99%E7%AB%8B%E5%BA%97%E4%B8%AD%E7%94%A8%E7%9B%AE%E6%B4%92%20%E5%82%85%E5%B8%8C%E5%A6%82.mp4
+5.《双投唐断密涧》 杜镇杰 孟广禄,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/5.%E3%80%8A%E5%8F%8C%E6%8A%95%E5%94%90%E6%96%AD%E5%AF%86%E6%B6%A7%E3%80%8B%20%E6%9D%9C%E9%95%87%E6%9D%B0%20%E5%AD%9F%E5%B9%BF%E7%A6%84.mp4
+51.《未央宫》选段 赵麟童,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/51.%E3%80%8A%E6%9C%AA%E5%A4%AE%E5%AE%AB%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%B5%B5%E9%BA%9F%E7%AB%A5.mp4
+52.《空城计》西皮三眼 李军,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/52.%E3%80%8A%E7%A9%BA%E5%9F%8E%E8%AE%A1%E3%80%8B%E8%A5%BF%E7%9A%AE%E4%B8%89%E7%9C%BC%20%E6%9D%8E%E5%86%9B.mp4
+53.《华容道》选段 于魁智 杨赤,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/53.%E3%80%8A%E5%8D%8E%E5%AE%B9%E9%81%93%E3%80%8B%E9%80%89%E6%AE%B5%20%E4%BA%8E%E9%AD%81%E6%99%BA%20%E6%9D%A8%E8%B5%A4.mp4
+54.《锁麟囊》选段 张火丁,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/54.%E3%80%8A%E9%94%81%E9%BA%9F%E5%9B%8A%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%BC%A0%E7%81%AB%E4%B8%81.mp4
+55.《打龙袍》选段 袁慧琴 孟广禄,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/55.%E3%80%8A%E6%89%93%E9%BE%99%E8%A2%8D%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%A2%81%E6%85%A7%E7%90%B4%20%E5%AD%9F%E5%B9%BF%E7%A6%84.mp4
+56.《伍子胥·刺王僚》 孟广禄,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/56.%E3%80%8A%E4%BC%8D%E5%AD%90%E8%83%A5%C2%B7%E5%88%BA%E7%8E%8B%E5%83%9A%E3%80%8B%20%E5%AD%9F%E5%B9%BF%E7%A6%84.mp4
+57.《金殿阻计》选段 陈少云,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/57.%E3%80%8A%E9%87%91%E6%AE%BF%E9%98%BB%E8%AE%A1%E3%80%8B%E9%80%89%E6%AE%B5%20%E9%99%88%E5%B0%91%E4%BA%91.mp4
+58.《沙家浜·军民鱼水情》裘识 孟雨润,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/58.%E3%80%8A%E6%B2%99%E5%AE%B6%E6%B5%9C%C2%B7%E5%86%9B%E6%B0%91%E9%B1%BC%E6%B0%B4%E6%83%85%E3%80%8B%E8%A3%98%E8%AF%86%20%E5%AD%9F%E9%9B%A8%E6%B6%A6.mp4
+59.《九江口》选段 杨赤 江其虎,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/59.%E3%80%8A%E4%B9%9D%E6%B1%9F%E5%8F%A3%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%A8%E8%B5%A4%20%E6%B1%9F%E5%85%B6%E8%99%8E.mp4
+6.《武家坡》选段 于魁智 李胜素,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/60.%E3%80%8A%E7%94%98%E9%9C%B2%E5%AF%BA%C2%B7%E5%8A%9D%E5%8D%83%E5%B2%81%E3%80%8B%E5%BC%A0%E5%BB%BA%E5%9B%BD.mp4
+60.《甘露寺·劝千岁》张建国,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/60.%E3%80%8A%E7%94%98%E9%9C%B2%E5%AF%BA%C2%B7%E5%8A%9D%E5%8D%83%E5%B2%81%E3%80%8B%E5%BC%A0%E5%BB%BA%E5%9B%BD.mp4
+61.《四郎探母·见弟》于魁智 翟建东,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/61.%E3%80%8A%E5%9B%9B%E9%83%8E%E6%8E%A2%E6%AF%8D%C2%B7%E8%A7%81%E5%BC%9F%E3%80%8B%E4%BA%8E%E9%AD%81%E6%99%BA%20%E7%BF%9F%E5%BB%BA%E4%B8%9C.mp4
+62.《四郎探母·见娘》张建国,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/62.%E3%80%8A%E5%9B%9B%E9%83%8E%E6%8E%A2%E6%AF%8D%C2%B7%E8%A7%81%E5%A8%98%E3%80%8B%E5%BC%A0%E5%BB%BA%E5%9B%BD.mp4
+63.《胭粉计》选段 李和曾,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/63.%E3%80%8A%E8%83%AD%E7%B2%89%E8%AE%A1%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%8E%E5%92%8C%E6%9B%BE.mp4
+64.《赤桑镇》选段 孟广禄 赵葆秀,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/64.%E3%80%8A%E8%B5%A4%E6%A1%91%E9%95%87%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%AD%9F%E5%B9%BF%E7%A6%84%20%E8%B5%B5%E8%91%86%E7%A7%80.mp4
+65.《打渔杀家》选段 谭元寿,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/65.%E3%80%8A%E6%89%93%E6%B8%94%E6%9D%80%E5%AE%B6%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%B0%AD%E5%85%83%E5%AF%BF.mp4
+66.《智取威虎山》选段 杨乃彭 尚长荣,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/66.%E3%80%8A%E6%99%BA%E5%8F%96%E5%A8%81%E8%99%8E%E5%B1%B1%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%A8%E4%B9%83%E5%BD%AD%20%E5%B0%9A%E9%95%BF%E8%8D%A3.mp4
+67.《战太平》选段 杜镇杰,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/67.%E3%80%8A%E6%88%98%E5%A4%AA%E5%B9%B3%E3%80%8B%E9%80%89%E6%AE%B5%20%E6%9D%9C%E9%95%87%E6%9D%B0.mp4
+68.《智取威虎山》选段 刘垒 于欣泽,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/68.%E3%80%8A%E6%99%BA%E5%8F%96%E5%A8%81%E8%99%8E%E5%B1%B1%E3%80%8B%E9%80%89%E6%AE%B5%20%E5%88%98%E5%9E%92%20%E4%BA%8E%E6%AC%A3%E6%B3%BD.mp4
+69.《洪羊洞》为国家 欧阳中石,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/69.%E3%80%8A%E6%B4%AA%E7%BE%8A%E6%B4%9E%E3%80%8B%E4%B8%BA%E5%9B%BD%E5%AE%B6%20%E6%AC%A7%E9%98%B3%E4%B8%AD%E7%9F%B3.mp4
+7.《四郎探母·坐宫》 于魁智 李胜素,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/7.%E3%80%8A%E5%9B%9B%E9%83%8E%E6%8E%A2%E6%AF%8D%C2%B7%E5%9D%90%E5%AE%AB%E3%80%8B%20%E4%BA%8E%E9%AD%81%E6%99%BA%20%E6%9D%8E%E8%83%9C%E7%B4%A0.mp4
+71.《连环套·坐寨》康万生,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/71.%E3%80%8A%E8%BF%9E%E7%8E%AF%E5%A5%97%C2%B7%E5%9D%90%E5%AF%A8%E3%80%8B%E5%BA%B7%E4%B8%87%E7%94%9F.mp4
+72.《大唐贵妃》选段 于魁智 李胜素,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/72.%E3%80%8A%E5%A4%A7%E5%94%90%E8%B4%B5%E5%A6%83%E3%80%8B%E9%80%89%E6%AE%B5%20%E4%BA%8E%E9%AD%81%E6%99%BA%20%E6%9D%8E%E8%83%9C%E7%B4%A0.mp4
+73.《智取威虎山》迎来春色人间 于魁智,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/73.%E3%80%8A%E6%99%BA%E5%8F%96%E5%A8%81%E8%99%8E%E5%B1%B1%E3%80%8B%E8%BF%8E%E6%9D%A5%E6%98%A5%E8%89%B2%E4%BA%BA%E9%97%B4%20%E4%BA%8E%E9%AD%81%E6%99%BA.mp4
+74.《乌盆记》老丈不必胆惊怕 凌珂,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/74.%E3%80%8A%E4%B9%8C%E7%9B%86%E8%AE%B0%E3%80%8B%E8%80%81%E4%B8%88%E4%B8%8D%E5%BF%85%E8%83%86%E6%83%8A%E6%80%95%20%E5%87%8C%E7%8F%82.mp4
+75.《大保国》选段 赵秀君 孟广禄,http://wxqvideo.test.upcdn.net/%E4%BA%AC%E5%89%A7/75.%E3%80%8A%E5%A4%A7%E4%BF%9D%E5%9B%BD%E3%80%8B%E9%80%89%E6%AE%B5%20%E8%B5%B5%E7%A7%80%E5%90%9B%20%E5%AD%9F%E5%B9%BF%E7%A6%84.mp4
+
