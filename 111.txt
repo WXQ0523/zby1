@@ -1,4 +1,5 @@
 戏曲晚会,#genre#
+cctv1,http://proxy.xvod.iptv8.com/m3u8/source.php?isp=aishang&zy=cctv1
 《2018春节戏曲晚会》 20180217（精编版）,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a17eeccb4075493990be4b8e70e5f3e6/1200.m3u8
 《2018元宵戏曲晚会》第一部分,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/2a31e886658b47bd96ae0b46cffae0a6/1200.m3u8
 《2018元宵戏曲晚会》第二部分,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0c3bfe42785c49589c78fbadeca8a5d6/1200.m3u8
